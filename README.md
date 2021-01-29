@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 
 
-🐦 [twitter][twitter] **|**  
+🐦 [twitter][twitter] **|  
 👔 [linkedin][linkedin]
 
 [twitter]: https://twitter.com/alexaraya_27
