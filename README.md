@@ -24,11 +24,10 @@
 
 ### 📝 Research
 
-<!-- YT:START -->
 - [Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
-<!-- YT:END -->
 
-📌 [Other articles...][articles]
+
+### 📌 [Other articles][articles]
 
 ---
 
