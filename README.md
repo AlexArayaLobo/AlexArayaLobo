@@ -17,9 +17,8 @@
 
 ### 🚀 Technologies
 
-[<img align="left" alt="Python" width="26px"/>]
+[<img align="left" alt="R" width="26px" https://www.google.com/search?q=R&tbm=isch&ved=2ahUKEwiy76isnMLuAhWseDABHdFQAIEQ2-cCegQIABAA&oq=R&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQ1CLLFiLLGCZLmgAcAB4AIABjAGIAYwBkgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=NpAUYLL8OKzxwbkP0aGBiAg&bih=632&biw=1242#imgrc=01ba1L3iPuiLiM />]
 
-[<img align="left" alt="MySQL" width="26px"/>]
 
 
 
@@ -33,12 +32,13 @@
 - [Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
 <!-- YT:END -->
 
-📌 [Other articles...][website]
+📌 [Other articles...][articles]
 
 ---
 
 <!-- LINKS -->
 [website]: https://neuralcoders.com/
+[articles]: https://neuralcoders.com/public/Articles/articles.html
 
 
 
