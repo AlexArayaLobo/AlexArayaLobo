@@ -17,10 +17,6 @@
 
 ### 🚀 Technologies
 
-[<img align="left" alt="R" width="26px" https://www.google.com/search?q=R&tbm=isch&ved=2ahUKEwiy76isnMLuAhWseDABHdFQAIEQ2-cCegQIABAA&oq=R&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQ1CLLFiLLGCZLmgAcAB4AIABjAGIAYwBkgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=NpAUYLL8OKzxwbkP0aGBiAg&bih=632&biw=1242#imgrc=01ba1L3iPuiLiM />]
-
-
-
 
 <br/>
 
