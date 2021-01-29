@@ -3,7 +3,7 @@
 ## I'm a Biologist and Data Analyst
 
 
-- 🔭 I’m currently working at Neural Coders
+- 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
 
 
@@ -15,11 +15,31 @@
 
 ---
 
-### 🚀 Coding
+### 🚀 Technologies
 
-[<img align="left" alt="Python" width="26px"
+[<img align="left" alt="Python" width="26px"/>]
 
-[<img align="left" alt="MySQL" width="26px" 
+[<img align="left" alt="MySQL" width="26px"/>]
+
+
+
+<br/>
+
+---
+
+### 📝 Research
+
+<!-- YT:START -->
+- [Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
+<!-- YT:END -->
+
+📌 [Other articles...][website]
+
+---
+
+<!-- LINKS -->
+[website]: https://neuralcoders.com/
+
 
 
 
