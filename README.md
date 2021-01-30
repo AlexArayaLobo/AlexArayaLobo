@@ -11,6 +11,7 @@
 ### Contact
 [<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
 [<img align="left" alt="Linkedin" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/linkedin.png?raw=true"/>][linkedin]
+[<img align="left" alt="ResearchGate" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/ResearchGate.png?raw=true"/>][ResearchGate]
 
 <br/>
 
@@ -44,5 +45,6 @@
 [mySQL]: https://www.mysql.com/
 [PostgreSQL]: https://www.postgresql.org/
 [PowerBI]: https://powerbi.microsoft.com/es-es/
+[ResearchGate]: https://www.researchgate.net/profile/Alex_Araya_Lobo
 
 
