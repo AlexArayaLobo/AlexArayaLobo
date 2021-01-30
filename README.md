@@ -8,9 +8,9 @@
 ---
 
 ### 💻 Technologies
-[<img align="left" alt="R" width="38px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>]
-[<img align="left" alt="PowerBI" width="38px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>]
-[<img align="left" alt="MySQL" width="38px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>]
+[<img align="left" alt="R" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>]
+[<img align="left" alt="PowerBI" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>]
+[<img align="left" alt="MySQL" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>]
 ---
 
 ### 📝 Research
