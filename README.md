@@ -15,7 +15,6 @@
 R - SQL - PowerBI
 
 <br/>
-
 ---
 
 ### 📝 Research
