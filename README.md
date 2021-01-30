@@ -6,9 +6,6 @@
 - 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
 
-
-
-
 ---
 
 ### 💻 Technologies
