@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
 
-
+---
 ### 💻 Technologies
 
 [<img align="left" alt="R" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
@@ -15,15 +15,15 @@
 
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][PowerBI]
 
-
+---
 ### 📝 Research
 
 - [Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
 
-
+---
 ### 📌 [Other articles][articles]
 
-
+---
 
 ### Contact
 [<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
