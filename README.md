@@ -8,6 +8,14 @@
 
 ---
 
+### Contact
+[<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
+[<img align="left" alt="Linkedin" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/linkedin.png?raw=true"/>][linkedin]
+
+<br/>
+
+---
+
 ### 💻 Technologies
 [<img align="left" alt="R" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
 [<img align="left" alt="PowerBI" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/PBI.png?raw=true"/>][PowerBI]
@@ -25,11 +33,6 @@
 ---
 ### 📌 [Other articles][articles]
 
----
-
-### Contact
-[<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
-[<img align="left" alt="Linkedin" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/linkedin.png?raw=true"/>][linkedin]
 
 
 <!-- LINKS -->
