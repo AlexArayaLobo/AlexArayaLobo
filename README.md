@@ -8,18 +8,14 @@
 
 ---
 ### 💻 Technologies
-
 [<img align="left" alt="R" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
-
 [<img align="left" alt="PowerBI" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>][PowerBI]
-
-[<img align="left" alt="MySQL" width="38px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][MySQL]
-
+[<img align="left" alt="MySQL" width="40px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][MySQL]
 ---
 
 ### 📝 Research
 
-- [Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
+[Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
 
 ---
 ### 📌 [Other articles][articles]
