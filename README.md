@@ -11,7 +11,7 @@
 
 [twitter]: https://twitter.com/alexaraya_27
 
-<img align="left" style="margin-right:5px" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /> (https://www.linkedin.com/in/alex-araya-lobo-184b6b196/)
+[<img align="left" style="margin-right:5px" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></img>](https://www.linkedin.com/in/alex-araya-lobo-184b6b196/)
 
 ---
 
