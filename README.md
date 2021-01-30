@@ -5,12 +5,14 @@
 
 - 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
+
 ---
 
 ### 💻 Technologies
-[<img align="left" alt="R" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>]
-[<img align="left" alt="PowerBI" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>]
-[<img align="left" alt="MySQL" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>]
+[<img align="left" alt="R" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
+[<img align="left" alt="PowerBI" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>][MySQL]
+[<img align="left" alt="MySQL" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][PowerBI]
+
 ---
 
 ### 📝 Research
@@ -33,6 +35,8 @@
 [articles]: https://neuralcoders.com/public/Articles/articles.html
 [twitter]: https://twitter.com/alexaraya_27
 [linkedin]: https://www.linkedin.com/in/alex-araya-lobo-184b6b196/
-
+[R]: https://www.r-project.org/
+[mySQL]: https://www.mysql.com/
+[PowerBI]: https://powerbi.microsoft.com/es-es/
 
 
