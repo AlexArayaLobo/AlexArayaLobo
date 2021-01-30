@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 
 
-🐦 [twitter][twitter] |  👔 [linkedin][linkedin]
+🐦 [Twitter][twitter] |  👔 [Linkedin][linkedin]
 
 [twitter]: https://twitter.com/alexaraya_27
 [linkedin]: https://www.linkedin.com/in/alex-araya-lobo-184b6b196/
@@ -15,8 +15,8 @@
 
 ---
 
-### 🚀 Technologies
-
+### 💻 Technologies
+R - SQL - PowerBI
 
 <br/>
 
