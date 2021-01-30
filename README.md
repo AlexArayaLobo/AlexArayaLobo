@@ -15,7 +15,7 @@
 
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][PowerBI]
 
----
+
 
 
 ### 📝 Research
