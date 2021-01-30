@@ -7,11 +7,6 @@
 - 😄 Pronouns: he/him
 ---
 
-### Contact
-[<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
-
----
-
 ### 💻 Technologies
 R - SQL - PowerBI
 
@@ -26,6 +21,9 @@ R - SQL - PowerBI
 ### 📌 [Other articles][articles]
 
 ---
+
+### Contact
+[<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
 
 <!-- LINKS -->
 [website]: https://neuralcoders.com/
