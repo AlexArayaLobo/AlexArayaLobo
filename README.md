@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
 
-[<img align="left" alt="Twitter" width="35px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png"></img>](https://twitter.com/alexaraya_27)
+[<img align="left" alt="Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png"></img>](https://twitter.com/alexaraya_27)
 [<img align="left" style="margin-right:5px" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></img>](https://www.linkedin.com/in/alex-araya-lobo-184b6b196/)
 
 
