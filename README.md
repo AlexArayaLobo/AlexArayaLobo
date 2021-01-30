@@ -12,7 +12,7 @@
 [<img align="left" alt="R" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
 [<img align="left" alt="PowerBI" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/PBI.png?raw=true"/>][PowerBI]
 [<img align="left" alt="MySQL" width="44px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/MySQL-Logo.wine.png?raw=true"/>][MySQL]
-[<img align="left" alt="PostgreSQL" width="44px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/postgresql_logo.png?raw=true"/>][PostgreSQL]
+[<img align="left" alt="PostgreSQL" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/1200px-Postgresql_elephant.svg.png?raw=true"/>][PostgreSQL]
 
 <br/>
 
