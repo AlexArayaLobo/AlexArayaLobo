@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
-[<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][https://twitter.com/alexaraya_27]
+
+[<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
 
 ---
 
@@ -27,7 +28,7 @@ R - SQL - PowerBI
 <!-- LINKS -->
 [website]: https://neuralcoders.com/
 [articles]: https://neuralcoders.com/public/Articles/articles.html
-
+[twitter]: https://twitter.com/alexaraya_27
 
 
 
