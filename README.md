@@ -24,11 +24,14 @@ R - SQL - PowerBI
 
 ### Contact
 [<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
+[<img align="left" alt="Linkedin" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/linkedin.png?raw=true"/>][linkedin]
+
 
 <!-- LINKS -->
 [website]: https://neuralcoders.com/
 [articles]: https://neuralcoders.com/public/Articles/articles.html
 [twitter]: https://twitter.com/alexaraya_27
+[linkedin]: https://www.linkedin.com/in/alex-araya-lobo-184b6b196/
 
 
 
