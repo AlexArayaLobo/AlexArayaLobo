@@ -14,7 +14,6 @@
 ### 💻 Technologies
 R - SQL - PowerBI
 
-<br/>
 ---
 
 ### 📝 Research
