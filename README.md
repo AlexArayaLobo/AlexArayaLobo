@@ -17,7 +17,7 @@
 
 ### 💻 Technologies
 R - SQL - PowerBI
-
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 <br/>
 
 ---
