@@ -9,11 +9,11 @@
 ---
 ### 💻 Technologies
 
-[<img align="left" alt="R" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
+[<img align="left" alt="R" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
 
-[<img align="left" alt="PowerBI" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>][PowerBI]
+[<img align="left" alt="PowerBI" width="32px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>][PowerBI]
 
-[<img align="left" alt="MySQL" width="30px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][MySQL]
+[<img align="left" alt="MySQL" width="36px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][MySQL]
 
 ---
 
