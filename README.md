@@ -7,14 +7,12 @@
 - 😄 Pronouns: he/him
 
 ---
-
 ### 💻 Technologies
 [<img align="left" alt="R" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Rlogo.png?raw=true"/>][R]
 [<img align="left" alt="PowerBI" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/power-bi.png?raw=true"/>][MySQL]
 [<img align="left" alt="MySQL" width="34px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/mysql.png?raw=true"/>][PowerBI]
 
 ---
-
 ### 📝 Research
 
 - [Variation of bacterial communities along the vertical gradient in Lake Issyk Kul, Kyrgyzstan](https://www.biorxiv.org/content/10.1101/864355v1)
