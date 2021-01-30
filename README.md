@@ -8,7 +8,7 @@
 
 ---
 
-### Contact
+### 📲 Contact
 [<img align="left" alt="Twitter" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/Twitter.png?raw=true"/>][twitter]
 [<img align="left" alt="Linkedin" width="26px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/linkedin.png?raw=true"/>][linkedin]
 [<img align="left" alt="ResearchGate" width="36px" src="https://github.com/AlexArayaLobo/Technologies/blob/main/Technologies/ResearchGate.png?raw=true"/>][ResearchGate]
