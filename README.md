@@ -1,6 +1,4 @@
-### Alex Araya Lobo - @AlexArayaLobo
-
-## Hi there :wave: and welcome to my profile. I'm Alex
+## Hi there :wave: and welcome to my profile. I'm Alex Araya Lobo
 <img align="center" alt="ReadmeImage" width="1000px" height="400" src="https://github.com/AlexArayaLobo/AlexArayaLobo/blob/main/Readme%20Image.png"/>
 
 - 🔭 I’m currently working at [Neural Coders][website]
