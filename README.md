@@ -1,7 +1,7 @@
 ### Alex Araya Lobo - @AlexArayaLobo
 
 ## I'm a Biologist and Data Analyst
-[<img align="left" alt="ReadmeImage" width="300px" src="https://github.com/AlexArayaLobo/AlexArayaLobo/blob/main/Readme%20Image.png"/>]
+[<img align="center" alt="ReadmeImage" width="350px" src="https://github.com/AlexArayaLobo/AlexArayaLobo/blob/main/Readme%20Image.png"/>]
 
 - 🔭 I’m currently working at [Neural Coders][website]
 - 😄 Pronouns: he/him
